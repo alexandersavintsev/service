@@ -165,7 +165,9 @@ GET /post/recommendations/?limit=5
 
 ### 👨‍💻 Автор
 Проект выполнен в рамках курса [karpov.courses](https://lab.karpov.courses/learning/756/module/6008/lesson/49280/135019/663264/).
+
 Автор: alexandersavintsev
+
 GitHub: https://github.com/alexandersavintsev/service
 
 ---
