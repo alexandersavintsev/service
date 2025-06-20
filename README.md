@@ -2,7 +2,7 @@
 
 ### 📌 Описание проекта
 
-Этот проект представляет собой API-сервис на базе **FastAPI**, обрабатывающий HTTP-запросы и возвращающий топ N постов по количеству лайков. Проект разработан в рамках финального задания курса от [karpov.courses](https://lab.karpov.courses/learning/756/module/6008/lesson/49280/135019/663264/).
+Этот проект представляет собой API-сервис на базе **FastAPI**, обрабатывающий HTTP-запросы и возвращающий топ N постов по количеству лайков. Проект разработан в рамках финального задания курса от [karpov.courses](https://karpov.courses/ml-start?_gl=1*1p6bprb*_ga*MTUyNTQzNDkxMi4xNzUwNDEzNDQ1*_ga_DZP7KEXCQQ*czE3NTA0MTM0NDQkbzEkZzEkdDE3NTA0MTQ0MTMkajU3JGwwJGgw).
 
 ---
 
@@ -164,7 +164,7 @@ GET /post/recommendations/?limit=5
 ---
 
 ### 👨‍💻 Автор
-Проект выполнен в рамках курса [karpov.courses](https://lab.karpov.courses/learning/756/module/6008/lesson/49280/135019/663264/).
+Проект выполнен в рамках курса [karpov.courses](https://karpov.courses/ml-start?_gl=1*1p6bprb*_ga*MTUyNTQzNDkxMi4xNzUwNDEzNDQ1*_ga_DZP7KEXCQQ*czE3NTA0MTM0NDQkbzEkZzEkdDE3NTA0MTQ0MTMkajU3JGwwJGgw).
 
 Автор: alexandersavintsev
 
