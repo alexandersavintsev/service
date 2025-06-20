@@ -108,7 +108,7 @@ cd service
 pip install -r requirements.txt
 ```
 
-Если файла `requirements.txt` ещё нет — создайте его с такими строками:
+Содержание файла `requirements.txt`:
 ```bash
 fastapi==0.75.1
 pandas==1.4.2
